@@ -1,3 +1,3 @@
 This is a new file in the newFolder folder.
 
-This is a change in file5.txt.
+This is a change in file5.txt. This file was modified in master branch.

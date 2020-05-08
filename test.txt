@@ -1,3 +1,5 @@
+First line of file.
+
 This is an addition to test.txt.
 
 This is a second addition to test.txt.
